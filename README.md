@@ -1,6 +1,8 @@
 # Discord-Bot-Sock
 A Text-based discord bot based on my friend's texting patterns with additional features
 
+Built using discord.py
+
 # Features
 * /baguette command which allows Bot Sock to reply with a rebuttal/roast or somethign random my friend would text
 * /lovecalculate command needs two people and will randomly calculate a value for the two peoples' compatibility score
