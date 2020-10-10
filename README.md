@@ -11,4 +11,5 @@ A Text-based discord bot based on my friend's texting patterns with additional f
 
 Some commands will only be accesible to administrators of the discord server.
 
+# Demo
 ![demo](https://github.com/stevenzhang070302/Discord-Bot-Sock/blob/master/botSockDemo.png?raw=true)
