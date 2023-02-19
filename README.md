@@ -1,6 +1,8 @@
 # Discord-Bot-Sock
 A Text-based discord bot based on my friend's texting patterns with additional features
 
+Author: Steven Zhang
+
 Built using discord.py
 
 # Features
