@@ -4,8 +4,7 @@ A Text-based discord bot based on my friend's texting patterns with additional f
 Built using discord.py
 
 
-Author: 
-  - Steven Zhang
+Author: Steven Zhang
 
 # Features
 * /baguette command which allows Bot Sock to reply with a rebuttal/roast or somethign random my friend would text
